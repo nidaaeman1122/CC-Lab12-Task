@@ -1,0 +1,10 @@
+C:\Users\NIDA\source\repos\lexicalAnalyzerV2\lexicalAnalyzerV2\bin\Debug\lexicalAnalyzerV2.exe.config
+C:\Users\NIDA\source\repos\lexicalAnalyzerV2\lexicalAnalyzerV2\bin\Debug\lexicalAnalyzerV2.exe
+C:\Users\NIDA\source\repos\lexicalAnalyzerV2\lexicalAnalyzerV2\bin\Debug\lexicalAnalyzerV2.pdb
+C:\Users\NIDA\source\repos\lexicalAnalyzerV2\lexicalAnalyzerV2\obj\Debug\lexicalAnalyzerV2.csproj.AssemblyReference.cache
+C:\Users\NIDA\source\repos\lexicalAnalyzerV2\lexicalAnalyzerV2\obj\Debug\lexicalAnalyzerV2.Form1.resources
+C:\Users\NIDA\source\repos\lexicalAnalyzerV2\lexicalAnalyzerV2\obj\Debug\lexicalAnalyzerV2.Properties.Resources.resources
+C:\Users\NIDA\source\repos\lexicalAnalyzerV2\lexicalAnalyzerV2\obj\Debug\lexicalAnalyzerV2.csproj.GenerateResource.cache
+C:\Users\NIDA\source\repos\lexicalAnalyzerV2\lexicalAnalyzerV2\obj\Debug\lexicalAnalyzerV2.csproj.CoreCompileInputs.cache
+C:\Users\NIDA\source\repos\lexicalAnalyzerV2\lexicalAnalyzerV2\obj\Debug\lexicalAnalyzerV2.exe
+C:\Users\NIDA\source\repos\lexicalAnalyzerV2\lexicalAnalyzerV2\obj\Debug\lexicalAnalyzerV2.pdb
